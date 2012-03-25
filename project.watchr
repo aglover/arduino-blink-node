@@ -1,0 +1,1 @@
+watch('src\/.*\.coffee') {|match| system "coffee --compile --output js/ src/"}

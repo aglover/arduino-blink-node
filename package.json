@@ -1,0 +1,8 @@
+{
+  "name":"arduino-serial",
+  "version":"0.1.0",
+  "dependencies" : {
+     "serialport" : "0.7.3",
+	 "express" : "2.5.8"
+  }
+}
