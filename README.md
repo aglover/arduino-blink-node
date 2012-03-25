@@ -6,6 +6,7 @@ This project uses [node-serialport](https://github.com/voodootikigod/node-serial
 Project makes use of CoffeeScript and Ruby's Watchr -- all source is in src/ directory and watchr will compile into JS into a js/ dir. Run either program via the `node` command (i.e. `node js/web.js`)
 
 Helpful resources:
+
   * [Node.js for Java developers](http://www.ibm.com/developerworks/java/library/j-nodejs/)
   * [Functional JavaScript with CoffeeScript and Node](http://www.ibm.com/developerworks/java/library/j-coffeescript/index.html?ca=drs-)
 
